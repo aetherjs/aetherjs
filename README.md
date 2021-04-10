@@ -6,5 +6,7 @@ I am proficient in Java, Kotlin and Python. I have plenty of experince in collab
 
 Actively looking for summer internships and grad schemes in software engineering and product management 🧑‍💻
 
+Fluent English 🇬🇧 and Russian 🇷🇺 with some German 🇩🇪 on the side.
+
 <!--
 **repinsky13/repinsky13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
