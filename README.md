@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Name's Vlad. I am an ultimate year CS student @ University College London.
+Name's Vlad. I am a fresh grad from University College London.
 
-I am proficient in Java, Kotlin and Python. I have plenty of experience in collaborative software development, and have a soft spot for nice products, clean solutions and analytics. 
+I am proficient in Java, Kotlin and Python. Additionally, I have the basic skillset necessary to set out in Web3/DeFi development, JavaScript (React, Web3.js, Ethers.js etc.) along with a good understanding of blockchain architecture and Solidity. I have plenty of experience in collaborative software development, and have a soft spot for nice products, clean solutions and analytics. 
 
-Actively looking for summer internships and grad schemes in software engineering and product management 🧑‍💻
+Actively looking for internships and grad schemes opportunities in the sphere or blockchain development 🧑‍💻
 
 Fluent English 🇬🇧 and Russian 🇷🇺 with some German 🇩🇪 on the side.
 
