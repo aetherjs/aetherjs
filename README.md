@@ -6,7 +6,7 @@ I am proficient in Java, Kotlin and Python. Additionally, I have the basic skill
 
 Actively looking for internships and grad schemes opportunities in the sphere or blockchain development 🧑‍💻
 
-Fluent English 🇬🇧 and Russian 🇷🇺 with some German 🇩🇪 on the side.
+Fluent English 🇬🇧 and Russian 🇷🇺 with some German 🇩🇪 and French 🇫🇷 on the side.
 
 <!--
 **repinsky13/repinsky13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
