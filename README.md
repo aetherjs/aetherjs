@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-Name's Vlad. I am a fresh grad from University College London.
+Name's Vlad. I am a self-learning (I learn fast though) solidity + web3 developer. I graduated UCL with MSc in computer science in 2021, and been exploring the space ever since. 
 
-I am proficient in Java, Kotlin and Python. Additionally, I have the basic skillset necessary to set out in Web3/DeFi development, JavaScript (React, Web3.js, Ethers.js etc.) along with a good understanding of blockchain architecture and Solidity. I have plenty of experience in collaborative software development, and have a soft spot for nice products, clean solutions and analytics. 
+Even before university, I had experience with programming. Starting off with competitive programming in school left me with a foundation to build upon in low-level languages like C and C++. 
 
-Actively looking for internships and grad schemes opportunities in the sphere or blockchain development 🧑‍💻
+Uni projects taught me Java, Kotlin (I _really_ prefer the latter) and Python well. More specifically, I have good experience with OOP development, various build/CI/CD systems, I understand JVM well and I can write good code. I have used python in diverse environments and use cases, for standalone apps and scripts, for making simple web APIs, and most importantly I worked quite a lot with python notebooks, for data analysis, mining in retrieval tasks. Frameworks like pandas, numpy, tensorflow, stuff like that. 
+
+Additionally, I been working on the basic skillset necessary for DeFi development: teaching myself Solidity & EVM, along with JavaScript with all its blockchain dev toolset: hardhat, truffle, foundry, cast. To supplement this, I have started work on two separate DeFi projects which I'm afraid I cannot advertise yet (hopefully, soon though). I am also really keen to capitalize on my understanding on architecture and low-level programming to add Rust to my skillset as soon as possible.
+
+I have plenty of experience in collaborative software development, and have a soft spot for nice products, clean solutions and analytics. 
 
 Fluent English 🇬🇧 and Russian 🇷🇺 with some German 🇩🇪 and French 🇫🇷 on the side.
-
-<!--
-**repinsky13/repinsky13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
