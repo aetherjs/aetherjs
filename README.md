@@ -10,6 +10,6 @@ Lately, I been working on the basic skillset necessary for DeFi development: tea
 
 I have plenty of experience in collaborative software development, and have a soft spot for nice products, clean solutions and analytics. 
 
-Fluent English 🇬🇧 and Russian 🇷🇺 with some German 🇩🇪 and French 🇫🇷 on the side.
+Fluent English 🇬🇧 with some French 🇫🇷 and German 🇩🇪 on the side.
 
 P.S. Most of my recent work is either in private or on GitLab 
