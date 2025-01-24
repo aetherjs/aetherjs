@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! 👋
 
 Name's Vlad, I'm a product-minded fullstack developer with both startup and enterprise experience. Skilled in modern web development and emerging tech - having built web3 products and genAI apps.
 
