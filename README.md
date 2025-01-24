@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Name's Vlad, I'm a product-minded fullstack developer with both startup and enterprise experience. 
+Name's Vlad, I'm a product-minded fullstack developer with both startup and enterprise experience. Skilled in modern web development and emerging tech - having built web3 products and genAI apps.
 
 Even before university, I had experience with programming. Starting off with competitive programming in school left me with a foundation to build upon in low-level languages like C and C++. 
 
